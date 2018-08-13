@@ -106,3 +106,6 @@ fitting為最好的演算法，xx,yy為當時最好的test sample，
 結果：
 
 ```
+
+
+![GitHub Logo](https://github.com/ekils/Training_and_Test/blob/master/0.png)
